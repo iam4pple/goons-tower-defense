@@ -1,13 +1,13 @@
 name = "Collective"
-filename = "collective-1.21.5-7.99.jar"
+filename = "collective-1.21.5-8.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d21fbe5feb6c8418fac37b813501c0dca4442114"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/TVxkXnUs/collective-1.21.5-8.1.jar"
+hash-format = "sha512"
+hash = "70ae5a60686c8872afde4b398e45bae060b0d946e060c62c60b27e36e6697583aac0582b6723df9f48001e5807ab43f98ef5deb810deb1658b23de491c0878c8"
 
 [update]
-[update.curseforge]
-file-id = 6357529
-project-id = 342584
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "TVxkXnUs"

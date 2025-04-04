@@ -3,11 +3,11 @@ filename = "toms_trading_network-fabric-1.21.5-0.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a4d5b59f4e0b4c2ab318996ceafba9c1fd62bde4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/x5iQ3NM5/versions/aWOUDg14/toms_trading_network-fabric-1.21.5-0.3.4.jar"
+hash-format = "sha512"
+hash = "0e2aebac7e8eb815193e40d84f27430c91660e534e5381e36497b2ca413614530ee9fa558580ecfa6874d096df5373594ccde9e261e96c503122ab1ed3e3510a"
 
 [update]
-[update.curseforge]
-file-id = 6363188
-project-id = 854496
+[update.modrinth]
+mod-id = "x5iQ3NM5"
+version = "aWOUDg14"

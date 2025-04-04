@@ -3,11 +3,11 @@ filename = "waystones-fabric-1.21.5-21.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d39e8398b518331cfaacfb0b6254de0d95ee193e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/ca46XnXg/waystones-fabric-1.21.5-21.5.1.jar"
+hash-format = "sha512"
+hash = "56659c8a6c1aec90261b423ac5709d8b22b203e8e806f7659bf3ca4c85ba1d9ae217fe3aa47ac345071678783eedeed208da9220567d24cf79e0bb3321d9810c"
 
 [update]
-[update.curseforge]
-file-id = 6347662
-project-id = 245755
+[update.modrinth]
+mod-id = "LOpKHB2A"
+version = "ca46XnXg"
