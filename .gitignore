@@ -3,3 +3,7 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude macOS files
+.DS_Store
+.MACOSX/
