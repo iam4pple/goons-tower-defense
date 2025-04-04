@@ -1,0 +1,306 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439"
+
+[[files]]
+file = "config/balm-client.toml"
+hash = "e6ca77393d993b18e48a8d87115d52dad5eb0554ba3070f8919c257460fe377e"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "e6ca77393d993b18e48a8d87115d52dad5eb0554ba3070f8919c257460fe377e"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "6313df23b222df0fe963e941ba788c2265b7846b97bd22aa050f1b492cc234c7"
+
+[[files]]
+file = "config/doubledoors.json5"
+hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "dc7598cff8d5128cabb1757c5e38a9cbf492ac2d195ed403bc47c679b4a1d4dc"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "0992df7470768bfb9f596f4f72be18eaeaa95dec707a262f37b3c72e87692e48"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "e1f236628fcb39d3e64ab74ce6e5e6d3e15d014fd46220b98cbb1e80659cf48e"
+
+[[files]]
+file = "config/jade/profiles/1/jade.json"
+hash = "9bd2eef795f6ec44511eb5feecb3b9878f5b99607fb559336a5866cf016258c6"
+
+[[files]]
+file = "config/jade/profiles/2/jade.json"
+hash = "07b0d7f5ad6606c4d9cce8f768027349ee72218401237903e468b2243ba0653c"
+
+[[files]]
+file = "config/jade/profiles/3/jade.json"
+hash = "58e57f1c5235fa93b402f85a403d55cacfcf8cbc6a1574059cbf235641cd2ecf"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "433aa26f0608908e23941e9514a58f2391c70e1e4d9ea0f3fb23a4abbfc7be47"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "9576eb8b15698325ab4b7ad953fae4adcefcfc4edc3427576ea765a189c83222"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "73764ebefe1f74419175db5220de1e5e562b666048c8a0651b6b172029b2e6b8"
+
+[[files]]
+file = "config/ping-wheel.json"
+hash = "41c4ff6f1cb894359d3b7afe7d5e6c7550b07d3dbeace1b2c972160f80f844ca"
+
+[[files]]
+file = "config/ping-wheel.server.json"
+hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "8cf6192eda81b3a27737440cfdedc05c40a8c1b552583114c1aa6fb2673ca907"
+
+[[files]]
+file = "config/toms_storage.json"
+hash = "63790264fc481b74bbcdc4b8cb406c36ebfeab1ebda86541969ea54a37abdfcb"
+
+[[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+hash = "b428c07faaed97d3bee29aa748bb8a1773f5145008435c08d9b5aed5151da3ad"
+
+[[files]]
+file = "config/villagernames.json5"
+hash = "c6a90f762893e4b57c5ef6bd5fcc6a29180e8cb69c6fce3959bacb2ecf9041ea"
+
+[[files]]
+file = "config/villagernames/customnames.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "699313f4116958829704af6416c88f69936c278e5db442811c24278b736017b1"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "e86eade1e3ff7e7424581d9b2946b8d39796495d14c636a69294ead6ad42ff59"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+hash = "33afebdb8ef07a3d774086931dec8d899f4da7aeba5b448fd4eee540ba5e02a2"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "00afce37e08ea8521acf4d5d495b628ae651dec603c022840d39b724acb419c7"
+
+[[files]]
+file = "mods/PresenceFootsteps-1.11.0+1.21.5.jar"
+hash = "5794853b65d723f5a21984cf31824a8fc21f3649b8b1414a179aaa03f298c7e3"
+
+[[files]]
+file = "mods/additional-structures-fabric.pw.toml"
+hash = "00940ffa6a5f789bc0bb505cbf78fc3ad70556c5065778b36468bc0ff1f9e0d1"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "917579175d05c4f9f35133cb0cf53b9e17c7db533455df812a128a5e50b852d2"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "e208536f474520e3ed5aafb93efa0320ae74cd3d838ecdb09d3ff28016f1c27e"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "c944fe128730ad022310c7f26e04247fb7a4df2232108cf734f26fabc92c1ddf"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "287209b1b1b7c27f11f59ef3eda5fb5f4431aa6b51701870a426c0b39da74fce"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "82e9bff665e51502bed4a803b12bce4afaab91b3146c4e68ad283b09e62a9007"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "afe4bf70ade0e75f7e539c4c74f0ed6bfc1db5550300b32cdab2d30b7fae47c7"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "b586cd794f603dcd113f7ee31f3bc0ec76306eeed1519b51007270c6c50210e8"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "1709e90f9e061cbdfc40b2dd1e40d82cbd1718f0fcb4a679ef69b4ff5911856a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "78cfc698f161de51ccaf05f7139ef15eca5b97a578cd3b0e3893de818392c3d6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ed16d558fcbf461e82c9af46d9c7f3c0dd77ff435c26a8fdfe12a3e3654605ca"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7bd4a2bf985d29dfa72a08b0daca1ecf3e38b11ac806405e4819a31297cb2df6"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "b15c3312a4cca50bf37dee2c669b8c52027b1264e4bd0800520471462596db24"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "3bd9ce39c21b76d124e5edf7bab4bf10954d648dd9ffef9f88fde76d0bbc6313"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8072c1882a3c3d5be90347e4547b88889ffa84c60ff3e427dce4d487df443985"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "53903a9c9c9d4099446cd055769f98a786e97e5e07da7fa5543ddb24312f65aa"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e42e9478d889222075b8fc20a9d934520fe153471d388fe5291d29d7ceef0c81"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "645e655ae943482ee806313fe5ee4922890806f0472b233a57537389e0a1e935"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "5b3af92cfe101d6de6355fc39c41723f3dcb87b148961f23ff148a77d74092be"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip-fabric-5.2.5+1.21.5.jar"
+hash = "24191260cc256da52190ac9cab3dd94f1ce77c55b57d2d5d824e2c30420d7cd5"
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8c04ce8f31ed41d70f728836efc3cc30d6404cee7021e6f3fdb5a81c73de45d7"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "2a72925cc752ce30b3d0a89ed94166357f1da650b84de06db666038fb141ed84"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "98d1cc20d11cd08fd4ee9c1a3e92a866d9ed67f652d8caafb76c4dae5963f243"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "2b572125723d3da6c715b9c34841ea083685c302f43d6322bd387265028ac57c"
+metafile = true
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "bc0e906d4fea8cd7a9ea63615b5a743cc8b624571db7b4f26b3ce833d64f59df"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "a74acac65a459133b3b5ca0f74590305739ca8d0cf42e61790d41d093f78afb4"
+metafile = true
+
+[[files]]
+file = "mods/toms-trading-network.pw.toml"
+hash = "e55a47e49c220c90ae90848149eced45366fb9e741aa6bf7a23c32783018c4e1"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "1d6e12d60269897d786e160867cf33ddcccce158b5f4558c7e821d8a0583fb9d"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "dc4f94e9e941d83729fcfd866a9e5d4d44002ceb52490cfa63fd2b20396a4ec0"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "6e9815e0f2eb4303de114c611f8ac0ea69ea11d9335d9c980cbd58f5955a520b"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "d02a605125f481a1512e5e40f7d34d288ccb5bb7962828de2b31f903b0ff7ca4"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "3426d09d09b73b67579cd680eb2ac7a9687707a3b6b84dc162b73b5166e45742"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ff7ff3076468c77cf5c6c703bba376749e521c8c53266743599dbafdf37b5caa"
+metafile = true
