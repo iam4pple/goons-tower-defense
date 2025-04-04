@@ -5,6 +5,14 @@ file = ".gitatrributes"
 hash = "73376dbcc71b5eeb1c9ce3b3492cf744b4704f684c23bbdd756def3f0a8741d0"
 
 [[files]]
+file = "config/doubledoors.json5"
+hash = "80e6b7b68d075f547b85c1a53037318c7b66cd47cecb5a8e137d0103d7b9dd2a"
+
+[[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+hash = "575324975b2e7bd78806d223877b706ab6cbf745e405d9af31fc6a9405f7e53c"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
