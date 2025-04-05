@@ -1,4 +1,5 @@
 # Goons Tower Defense Modpack
+<small>Made with Packwiz</small>
 
 This modpack is a collection of mods exclusively for use on the Goons Tower Defense Minecraft server.
 
